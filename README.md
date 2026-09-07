@@ -1,0 +1,1 @@
+# Percobaan_TuRi1_EDA_PasyaNurRizki.ipynb.
